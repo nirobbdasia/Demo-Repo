@@ -1,0 +1,38 @@
+Constractor
+============
+
+Constractor is block of code or number of statement which Used to The values or 
+in other words Initialize the values
+======================
+
+Few points to remember for Constractor
+=========================
+1.Constractor has same name as class name 
+2.Constractor doesnt have any return Type
+3.Constractor get invoked automatically when you create object
+4.Constractor in java can not be static , final , abstract and synchronized
+
+
+Type of Constractor:
+===================
+
+1.Default Constractor (No-argument Constractor)
+
+2.Parameterized Constractor(Constractor with some arguments)
+
+Constractor Overloading:
+=========================
+
+When we use same Constractor multiple time with different Signature
+
+Signature consist of :
+
+1.Number of Arguments
+2.Type of Arguments
+3.order of Arguments
+
+Compile time Constractor 
+==========================
+At that time of running this code i know which constractor will be called
+ So at that time of Compilation i know . that why its called as Complile time
+ Constractor 
